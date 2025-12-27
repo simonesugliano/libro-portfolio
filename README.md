@@ -2,7 +2,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![3D CSS](https://img.shields.io/badge/CSS-3D%20Animations-purple?style=flat)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)](https://libro-portfolio.vercel.app)
 ![Case Study](https://img.shields.io/badge/Project-Technical%20Case%20Study-informational?style=flat)
 
 # Libro Portfolio – Esperienza Web Interattiva
