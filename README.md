@@ -1,6 +1,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](public/index.html)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](public/index.html)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](public/index.html)
+[![Turn.js](https://img.shields.io/badge/Turn.js-3D%20Book-blue?style=flat)](root/turn.js)
+
 ![3D CSS](https://img.shields.io/badge/CSS-3D%20Animations-purple?style=flat)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)](https://libro-portfolio.vercel.app)
 ![Case Study](https://img.shields.io/badge/Project-Technical%20Case%20Study-informational?style=flat)
